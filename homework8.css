@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h2 {
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.line {
+    width: 40px;
+    height: 2px;
+    background-color: black;
+}
+
+.text-p {
+    color: #7D7987;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
+
+img {
+    width: 81px;
+    height: 80px;
+    margin: 30px;
+}
+
+.img3 {
+    width: 61px;
+}
+
+.img6 {
+    width: 61px;
+}
+
+.box {
+    margin-top: 20px;
+}
+
+.box1 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box2 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box3 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box4 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box5 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box6 {
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.text-h3 {
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    margin-left: 40px;
+}
+
+.text-p1 {
+    color: #7D7987;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    margin-left: 40px;
+}
+
+.button {
+    text-align: center;
+    margin: 100px;
+    margin-left: 640px;
+    padding-top: 15px;
+    border: 1px solid blue;
+    border-radius: 50px;
+    color: blue;
+    width: 200px;
+    height: 50px;
+}
+
+.container {
+    display: flex;
+}
+.container2 {
+    display: flex;
+}
